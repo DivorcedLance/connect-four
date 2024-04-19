@@ -11,10 +11,10 @@ Welcome to our **Connect Four** game, built with React! This classic two-player 
 
 ## Game Screenshots 📸
 
-![Gameplay](#your-screenshot-link-here)  
+![Gameplay](https://github.com/DivorcedLance/connect-four/assets/104219610/e9dbe4dc-18f2-4a28-9edb-bb29ff6d2505)
 *In-game screenshot of Connect Four.*
 
-![Winner Modal](#your-winner-screenshot-link-here)  
+![Winner Modal](https://github.com/DivorcedLance/connect-four/assets/104219610/046181e4-7def-4ee3-9454-d3352d678a51) 
 *Screenshot showing the winner modal when someone wins.*
 
 ## How to Play 🕹️
